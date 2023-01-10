@@ -1,0 +1,21 @@
+body
+{
+    background-color: black;
+}
+#score
+{
+    margin: 20px;
+    font-size: 14;
+    color: white;
+}
+#time
+{
+    margin-right: 5;
+    margin-left: 5;
+    font-size: 14;
+    color: white;
+}
+#sketch_name
+{
+    color: white;
+}
